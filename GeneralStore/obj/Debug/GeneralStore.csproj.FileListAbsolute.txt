@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\Projeler\GeneralStore\bin\Debug\GeneralStore.exe.config
+C:\Users\hp\source\repos\Projeler\GeneralStore\bin\Debug\GeneralStore.exe
+C:\Users\hp\source\repos\Projeler\GeneralStore\bin\Debug\GeneralStore.pdb
+C:\Users\hp\source\repos\Projeler\GeneralStore\obj\Debug\GeneralStore.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Projeler\GeneralStore\obj\Debug\GeneralStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\Projeler\GeneralStore\obj\Debug\GeneralStore.Form1.resources
+C:\Users\hp\source\repos\Projeler\GeneralStore\obj\Debug\GeneralStore.Properties.Resources.resources
+C:\Users\hp\source\repos\Projeler\GeneralStore\obj\Debug\GeneralStore.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Projeler\GeneralStore\obj\Debug\GeneralStore.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Projeler\GeneralStore\obj\Debug\GeneralStore.exe
+C:\Users\hp\source\repos\Projeler\GeneralStore\obj\Debug\GeneralStore.pdb
+C:\Users\hp\source\repos\Projeler\GeneralStore\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\Projeler\GeneralStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\Projeler\GeneralStore\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\Projeler\GeneralStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\Projeler\GeneralStore\obj\Debug\GeneralStore.csproj.CopyComplete
